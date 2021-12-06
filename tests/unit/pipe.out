@@ -1,0 +1,30 @@
+smash> my_sleep
+random1.txt
+ransmash> look here
+smash> /bin/bash: not_real_command: command not found
+smash> smash> smash> smash> my_sleep
+random1.txt
+random2.txt
+sub1
+sub2
+sub3
+smash> 0
+2
+Done: 3
+smash> smash pid is 31598
+smash> smash pid is 31598
+smash> /tmp/smash_test
+smash> smash> smash> [1] sleep 20& : 31652 0 secs
+[2] sleep 10& : 31653 0 secs
+smash> signal number 9 was sent to pid 31652
+smash> signal number 9 was sent to pid 31653
+smash> smash> smash> signal number 9 was sent to pid 31662
+smash> smash> r directory
+smash> r directory
+smash> PWD not set
+smash> y arguments
+smash> s not exist
+smash> d arguments
+smash> d arguments
+smash> d not found
+smash> smash> smash: sending SIGKILL signal to 0 jobs:
